@@ -1,4 +1,4 @@
-import Logo from "../assets/lws-logo-en.svg";
+import Logo from "../assets/icon1.png";
 import AddedDeletedTask from "./AddedDeletedTask";
 import { IsAddedDeleteContext } from "../Context/index.js";
 import { useContext } from "react";
